@@ -3,7 +3,6 @@
 - Check Online: https://regex101.com/
 # Rule
 - Tags are independent of each other
-- Remove all "br" tag
 # Supported tags
 - p
 
